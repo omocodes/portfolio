@@ -26,7 +26,7 @@ export const clientReviews = [
     id: 1,
     name: 'Amogelang Tsie',
     position: 'Director at Amogelangs Creations',
-    img: '/',
+    img: '/assets/amo.jpg',
     review:
       'Working with Omo was a game-changer for our digital presence. He took our vision and turned it into a sleek, functional website that perfectly represents our brand. His technical skills are matched only by his professionalism.',
   },
@@ -34,7 +34,7 @@ export const clientReviews = [
     id: 2,
     name: 'Siyanda Gazu',
     position: 'Co-Founder & COO of DeSQLy',
-    img: '/',
+    img: '/assets/siya.jpeg',
     review:
       'Omolemo’s ability to simplify complex tech challenges is remarkable. He rebuilt our e-commerce platform with flawless functionality, and our customer engagement has skyrocketed. A true expert in his field!',
   },
@@ -42,7 +42,7 @@ export const clientReviews = [
     id: 3,
     name: 'Rolivhuwa Thangavhelo',
     position: 'Founder & CEO of FreshProFood',
-    img: '/',
+    img: '/assets/roli.jpg',
     review:
       'From concept to launch, Omolemo delivered beyond our expectations. His attention to detail and innovative solutions transformed our food delivery platform. FreshProFood now runs smoother than ever—highly recommend!',
   },
