@@ -19,13 +19,12 @@ const About = () => {
       <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container">
-            <img src="assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
+            <img src="assets/grid1.jpg" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
               <p className="grid-headtext">Hi, I&apos;m Omolemo Diale</p>
               <p className="grid-subtext">
-                A passionate full-stack developer with experience in both frontend and backend development, creating dynamic
-                and responsive web applications.
+                I&apos;m a multiskilled software developer with a flair for creative problem-solving and a deep interest in building tech that makes everyday life easier. My journey into tech began unconventionally as a barber running a side hustle on campus. That hands-on hustle taught me discipline, customer engagement, and the importance of accessible services, ultimately inspiring me to create ZARLO, an Uber for beauty services. I bring solid experience in web development (React, Angular, Spring Boot), and CRM/ERP systems (Microsoft Dynamics 365, Bitrix24). I&apos;ve worked with a startup, volunteered at NGOs, and academic institutions, developing everything from internal tools to public-facing applications.
               </p>
             </div>
           </div>
@@ -38,7 +37,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                React.js, Next.js, Angular, Java, Spring Boot, Figma, Git, GitHub.
+                React.js, Next.js, AngularJS, HTML, CSS, Java, Spring Boot, MySQL, MongoDB, RESTful APIs, Microsoft Dynamics 365, Bitrix24, WordPress, Figma, Adobe Photoshop, Git, GitHub, Docker, Azure CI/CD, Webpack, Atlassian, Google Maps API, Microsoft Office Suite.
               </p>
             </div>
           </div>
