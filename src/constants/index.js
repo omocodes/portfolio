@@ -61,7 +61,7 @@ export const myProjects = [
     title: 'ZARLO – Beauty & Wellness Platform',
     desc: 'ZARLO is a digital beauty and wellness platform designed to connect users with top-tier service providers in their area. It enables seamless booking, reviews, and service management for users and providers alike.',
     subdesc:
-      'I led the design and development of the ZARLO web app using Next.js, handled brand identity and social media engagement, and integrated marketing content into a cohesive user experience.',
+      'I led the design and development of the ZARLO web app using Next.js, MongoDB with Prisma, PayStack and handled brand identity and social media engagement, and integrated marketing content into a cohesive user experience.',
     href: 'https://www.zarloapp.com',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
@@ -169,11 +169,10 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-    subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+    title: 'FreshProFood - Uber for Fresh Produce',
+desc: 'FreshProFood is a dynamic, on-demand delivery platform connecting consumers directly with local farmers and fresh produce vendors. Built to simplify logistics and ensure freshness, the app enables real-time ordering and tracking of fruits, vegetables, and more.',
+subdesc: 'Developed using Next.js, Firebase, and PayStack, FreshProFood integrates live driver tracking, vendor dashboards, and secure payments—bringing farm-to-table efficiency to the digital age.',
+    href: 'https://freshprofoods.com/',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
