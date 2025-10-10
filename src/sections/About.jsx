@@ -37,7 +37,12 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                React.js, Next.js, AngularJS, HTML, CSS, Java, Spring Boot, MySQL, MongoDB, RESTful APIs, Microsoft Dynamics 365, Bitrix24, WordPress, Figma, Adobe Photoshop, Git, GitHub, Docker, Azure CI/CD, Webpack, Atlassian, Google Maps API, Microsoft Office Suite.
+                Microsoft Office Suite (Advanced), Microsoft Dynamics 365, Power BI, Power Platform, Dataverse, Bitrix24, SQL, Data 
+Migration, ETL Processes, Data Cleansing & Transformation. Data Import/Export, Automation, Data Integration, 
+Business Analysis, Process Automation, Dashboards & Reporting, Next.js, JWT, CORS, JUnit, 
+Jest, RESTful APIs, Python, Django, Angular, WordPress, Java, Spring Boot, MongoDB, Agile Methodologies, Scrum, 
+Atlassian, Docker, CI/CD, Agile/Scrum, Figma, Git, GitHub, Client Requirements Gathering, Technical Consulting, 
+Solution Design, User Training, Problem-Solving, Analytical Thinking 
               </p>
             </div>
           </div>

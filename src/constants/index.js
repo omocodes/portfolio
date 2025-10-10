@@ -132,13 +132,13 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
-    subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://github.com/omocodes/ai-fintech-platform',
+    title: 'Agile Innovation Business Solutions - Consulting & Booking Platform',
+    desc: 'I designed and developed the consulting firm based in Pretoria, South Africa. The platform highlights the company’s expertise in digital transformation, process optimization, and leadership development, with integrated booking capabilities for client consultations and training sessions.',
+  subdesc:
+    'Built with Next.js 14, TypeScript, TailwindCSS, and ShadCN UI, the platform provides a modern, responsive experience. Also used Appwrite backend integration, PayStack payments, and a secure client portal for managing bookings and invoices.',
+  href: 'https://agileinnovationbusinesssolutions.vercel.app/',
     texture: '/textures/project/project4.mp4',
-    logo: '/assets/project-logo4.png',
+    logo: '/assets/agile.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
